@@ -7,12 +7,12 @@ body{
 }
 
 
-@media all and (min-width:600px){
+@media all and (min-width:600px) {
  h2{
 	background-color: green;
-	}
+ }
  ul{
 	background-color: orange;
-	}
+ }
 	
 }
